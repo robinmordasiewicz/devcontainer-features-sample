@@ -9,14 +9,8 @@
     "extensions": {
       "default": "",
       "description": "Supply a list of pre-installed extensions",
-      "proposals": [
-        "github.vscode-github-actions",
-        "ms-azuretools.vscode-docker",
-        "ms-python.python",
-        "ms-vscode.powershell"
-      ],
       "type": "string"
     }
   },
-  "version": "0.0.4"
+  "version": "0.0.5"
 }
